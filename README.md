@@ -1,4 +1,4 @@
-# Hallo! 👋, I'm Dario Mejia
+# Hallo! 👋, I'm Dario Mejia <img src="https://github.com/user-attachments/assets/fb6b888b-cb7a-4289-80a9-eb0099b6e0b8" width="25" />
 
 <!--
 Here are some ideas to get you started:
